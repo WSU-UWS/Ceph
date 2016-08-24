@@ -5,7 +5,6 @@ class Board
     private:
         int maxRow;
         int maxCol;
-        //int pBoard[5][5];  //hard coded 5x5
     public:
         int getRow();
         int getCol();
